@@ -1,3 +1,3 @@
 pharaoh
 =======
-hook test2
+hook test
